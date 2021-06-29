@@ -121,6 +121,9 @@
             <quickActionName>Task.UpdatePriority_1</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
+            <quickActionName>Task.UpdatePriority</quickActionName>
+        </quickActionListItems>
+        <quickActionListItems>
             <quickActionName>Task.EditDescription_0</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
@@ -161,9 +164,6 @@
         </quickActionListItems>
         <quickActionListItems>
             <quickActionName>Task.UpdateStatus</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
-            <quickActionName>Task.UpdatePriority</quickActionName>
         </quickActionListItems>
     </quickActionList>
     <relatedContent>
