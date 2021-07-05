@@ -181,7 +181,7 @@
         <columns>TransactionDate</columns>
         <columns>EffectiveDate</columns>
         <filterScope>Mine</filterScope>
-        <label>Mis Instantáneas de saldos financieros</label>
+        <label>My Finance Balance Snapshots</label>
     </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>Account</customTabListAdditionalFields>

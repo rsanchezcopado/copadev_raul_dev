@@ -137,7 +137,7 @@
     <listViews>
         <fullName>AssetStatePeriod</fullName>
         <filterScope>Everything</filterScope>
-        <label>Todos</label>
+        <label>All</label>
     </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>Asset</customTabListAdditionalFields>

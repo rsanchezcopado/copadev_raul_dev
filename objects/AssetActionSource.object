@@ -159,7 +159,7 @@
     <listViews>
         <fullName>AssetActionSource</fullName>
         <filterScope>Everything</filterScope>
-        <label>Todos</label>
+        <label>All</label>
     </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>AssetAction</customTabListAdditionalFields>

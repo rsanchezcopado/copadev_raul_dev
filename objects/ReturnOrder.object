@@ -265,12 +265,12 @@
     <listViews>
         <fullName>All_ReturnOrders</fullName>
         <filterScope>Everything</filterScope>
-        <label>Todas las órdenes de devolución</label>
+        <label>All Return Orders</label>
     </listViews>
     <listViews>
         <fullName>My_ReturnOrders</fullName>
         <filterScope>Mine</filterScope>
-        <label>Mis órdenes de devolución</label>
+        <label>My Return Orders</label>
     </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>Account</customTabListAdditionalFields>
