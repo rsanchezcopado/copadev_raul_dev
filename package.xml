@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>rsp_Test_email_Templates</members>
-        <members>rsp_Test_email_Templates/SalesNewCustomerEmail</members>
-        <name>EmailTemplate</name>
+        <members>Reports_test</members>
+        <members>Reports_test/Test_report_Templates_New_jXf</members>
+        <name>Report</name>
     </types>
     <types>
-        <members>rsp_Test_email_Templates</members>
-        <members>rsp_Test_email_Templates_New</members>
-        <members>rsp_Test_email_Templates_New/SupportCaseResponse</members>
-        <name>EmailTemplate</name>
+        <members>Reports_test</members>
+        <members>Reports_test/Test_email_Templates_6Ud</members>
+        <name>Report</name>
     </types>
     <version>52.0</version>
 </Package>
