@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Reports_test</members>
-        <members>Reports_test/rsp_report_same_name</members>
-        <members>Reports_test/rsp_report_same_name_new</members>
+        <members>Reports_test/Report_test_folder_B</members>
+        <members>Reports_test/Report_test_folder_B/Report_test_folder_A_B</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>Reports_test/Report_test_folder_A</members>
+        <members>Reports_test/Report_test_folder_A/Report_test_folder_A</members>
         <name>Report</name>
     </types>
     <version>52.0</version>
