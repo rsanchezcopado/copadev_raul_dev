@@ -10,9 +10,10 @@
             <botSteps>
                 <type>Wait</type>
             </botSteps>
+            <description>ffserrwwrwwrersffsddffsfdsd</description>
             <developerName>test_1</developerName>
             <label>test_1</label>
-            <showInFooterMenu>false</showInFooterMenu>
+            <showInFooterMenu>true</showInFooterMenu>
         </botDialogs>
         <botDialogs>
             <botSteps>
