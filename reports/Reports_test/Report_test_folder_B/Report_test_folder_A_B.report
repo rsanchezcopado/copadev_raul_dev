@@ -22,7 +22,7 @@
         <field>LAST_UPDATE</field>
     </columns>
     <format>Tabular</format>
-    <name>Report_test_folder_A_B</name>
+    <name>Report_test_folder_A_B_conflict</name>
     <params>
         <name>co</name>
         <value>1</value>

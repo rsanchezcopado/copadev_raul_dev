@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>rsp_bot</members>
-        <name>Bot</name>
+        <members>Reports_test/Report_test_folder_B/Report_test_folder_A_B</members>
+        <name>Report</name>
     </types>
     <version>52.0</version>
 </Package>
