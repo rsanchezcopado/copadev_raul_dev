@@ -9,6 +9,10 @@
         <name>rsp_label</name>
     </customLabels>
     <customLabels>
+        <label>second translation</label>
+        <name>rsp_label</name>
+    </customLabels>
+    <customLabels>
         <label>NOOOOOOOOO</label>
         <name>rsp_label_2</name>
     </customLabels>
