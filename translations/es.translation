@@ -4,4 +4,8 @@
         <label>rsp_app_trans_conflict</label>
         <name>rsp_app</name>
     </customApplications>
+    <customLabels>
+        <label>lalala</label>
+        <name>rsp_label</name>
+    </customLabels>
 </Translations>

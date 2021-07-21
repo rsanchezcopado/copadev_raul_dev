@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>rsp_app</members>
-        <name>CustomApplication</name>
-    </types>
-    <types>
-        <members>rsp_app_UtilityBar</members>
-        <name>FlexiPage</name>
+        <members>rsp_label</members>
+        <name>CustomLabel</name>
     </types>
     <types>
         <members>es</members>
