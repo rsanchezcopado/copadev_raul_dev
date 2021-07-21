@@ -5,11 +5,7 @@
         <name>rsp_app</name>
     </customApplications>
     <customLabels>
-        <label>lalala</label>
-        <name>rsp_label</name>
-    </customLabels>
-    <customLabels>
-        <label>second translation</label>
+        <label>rsp_label conflict 2</label>
         <name>rsp_label</name>
     </customLabels>
     <customLabels>
