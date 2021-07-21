@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Translations xmlns="http://soap.sforce.com/2006/04/metadata">
     <customApplications>
-        <label>rsp_app_trans_conflict</label>
+        <label>rsp_app_trans_conflict tururu</label>
         <name>rsp_app</name>
     </customApplications>
     <customLabels>
-        <label>lalala</label>
+        <label>rsp_label conflict 2</label>
         <name>rsp_label</name>
     </customLabels>
 </Translations>
