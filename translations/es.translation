@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Translations xmlns="http://soap.sforce.com/2006/04/metadata">
     <customLabels>
+        <label>second translation</label>
+        <name>rsp_label</name>
+    </customLabels>
+    <customLabels>
         <label>NOOOOOOOOO</label>
         <name>rsp_label_2</name>
     </customLabels>
