@@ -7,4 +7,11 @@
         <shortDescription>rsp_label</shortDescription>
         <value>lololo</value>
     </labels>
+    <labels>
+        <fullName>rsp_label_2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>rsp_label_2</shortDescription>
+        <value>22/07 8:45 label 2</value>
+    </labels>
 </CustomLabels>

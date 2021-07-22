@@ -8,4 +8,8 @@
         <label>rsp_label conflict 2</label>
         <name>rsp_label</name>
     </customLabels>
+    <customLabels>
+        <label>22/07 8:45 label 2 translation</label>
+        <name>rsp_label_2</name>
+    </customLabels>
 </Translations>
