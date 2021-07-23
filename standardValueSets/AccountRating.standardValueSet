@@ -16,4 +16,9 @@
         <default>false</default>
         <label>Cold</label>
     </standardValue>
+    <standardValue>
+        <fullName>Test</fullName>
+        <default>false</default>
+        <label>Test</label>
+    </standardValue>
 </StandardValueSet>
