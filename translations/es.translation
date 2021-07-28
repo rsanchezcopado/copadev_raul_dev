@@ -5,7 +5,7 @@
         <name>rsp_app</name>
     </customApplications>
     <customLabels>
-        <label>Valor actual en UAT</label>
+        <label>Valor actual en UAT 2</label>
         <name>rsp_label</name>
     </customLabels>
 </Translations>
