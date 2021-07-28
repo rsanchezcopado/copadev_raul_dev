@@ -5,7 +5,7 @@
         <name>rsp_app</name>
     </customApplications>
     <customLabels>
-        <label>27/07 new value</label>
+        <label>Valor actual en Promotion 55 si debe estar en UAT</label>
         <name>rsp_label</name>
     </customLabels>
 </Translations>
