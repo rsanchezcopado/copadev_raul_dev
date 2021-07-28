@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Translations xmlns="http://soap.sforce.com/2006/04/metadata">
     <customApplications>
-        <label>Valor actual en Promotion 55 no debe estar en UAT</label>
+        <label>Promo 55 no lo queremos en UAT</label>
         <name>rsp_app</name>
     </customApplications>
     <customLabels>
-        <label>Valor actual en Promotion 55 si debe estar en UAT</label>
+        <label>Promo 55 si lo queremos en UAT</label>
         <name>rsp_label</name>
     </customLabels>
 </Translations>
