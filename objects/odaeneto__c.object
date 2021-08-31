@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customSettingsType>Hierarchy</customSettingsType>
+    <description>Pepito_eneto</description>
+    <enableFeeds>false</enableFeeds>
+    <fields>
+        <fullName>eneto_eneto__c</fullName>
+        <description>enetoooo</description>
+        <externalId>false</externalId>
+        <inlineHelpText>enetoooooo</inlineHelpText>
+        <label>eneto_eneto</label>
+        <length>80</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <label>Oda_eneto</label>
+    <visibility>Public</visibility>
+</CustomObject>
