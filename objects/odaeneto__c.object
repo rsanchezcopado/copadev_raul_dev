@@ -5,9 +5,7 @@
     <enableFeeds>false</enableFeeds>
     <fields>
         <fullName>eneto_eneto__c</fullName>
-        <description>con user story</description>
         <externalId>false</externalId>
-        <inlineHelpText>con user story</inlineHelpText>
         <label>eneto_eneto</label>
         <length>80</length>
         <required>false</required>
