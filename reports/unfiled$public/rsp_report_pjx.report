@@ -22,7 +22,7 @@
         <field>LAST_UPDATE</field>
     </columns>
     <format>Tabular</format>
-    <name>rsp_report</name>
+    <name>rsp_report_modified</name>
     <params>
         <name>co</name>
         <value>1</value>
